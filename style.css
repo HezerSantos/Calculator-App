@@ -25,6 +25,11 @@
     height: 10%;
     border: black solid;
     border-bottom: 0;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 50px;
+    overflow: hidden;
 }
 
 .buttonContainer{
@@ -43,6 +48,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
     width: 75px;
     height: 75px;
     border: black solid;
