@@ -30,6 +30,7 @@
     align-items: center;
     font-size: 50px;
     overflow: hidden;
+    white-space: nowrap;
 }
 
 .buttonContainer{
@@ -49,8 +50,8 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    width: 75px;
-    height: 75px;
+    width: 90px;
+    height: 90px;
     border: black solid;
     border-radius: 100%;
 }
